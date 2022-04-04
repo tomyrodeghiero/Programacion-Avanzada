@@ -1,3 +1,5 @@
+-- Copyright (C) 2022 Tomás Rodeghiero
+
 -- 1.
 {- Si bien para comprabar si (2^29)/(2^9) y 2^20 son iguales se lo ha hecho en la Consola, 
 a modo de anexo se adjunta una función para evaluar si dos numeros son iguales -}
